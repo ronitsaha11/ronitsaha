@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Ronit Saha
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:06B6D4&height=220&section=header&text=Ronit%20Saha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20Android&descAlignY=52&descSize=20" width="100%"/>
 
-### 💻 Full Stack Developer | 🎓 B.Tech CSE Student | 📱 Android Explorer
+<a href="https://github.com/ronitsaha11">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+end-to-end+web+%26+mobile+apps;React+%2B+Next.js+%2B+Node.js+%2B+MongoDB;Kotlin+%2B+Jetpack+Compose+for+Android;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-I build **end-to-end web platforms, AI-powered tools, and Android applications**, with a focus on clean architecture, secure APIs, and performance-driven frontend engineering.
+<br/>
 
-<p>
 <a href="https://github.com/ronitsaha11">
 <img src="https://img.shields.io/badge/GitHub-ronitsaha11-181717?style=for-the-badge&logo=github" />
 </a>
@@ -16,97 +17,121 @@ I build **end-to-end web platforms, AI-powered tools, and Android applications**
 <a href="mailto:ronitsaha.edu@gmail.com">
 <img src="https://img.shields.io/badge/Email-ronitsaha.edu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
+<a href="https://github.com/ronitsaha11">
+<img src="https://komarev.com/ghpvc/?username=ronitsaha11&style=for-the-badge&color=1F3864&label=Profile+Views" />
+</a>
 
 </div>
 
----
+<br/>
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Computer Science & Engineering student at Lovely Professional University (2024 – Present)
-* 💻 Full-stack developer experienced in **React, Next.js, Node.js, Express, and MongoDB**
-* 📱 Building Android apps with **Kotlin, Jetpack Compose, and Clean Architecture/MVVM**
-* 🔐 Skilled in **RESTful API design, JWT authentication, and role-based access control**
-* 🧠 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, OS, and Computer Networks**
-* 📜 IBM-certified in **Developing Back-End Apps with Node.js and Express** (Coursera)
-* 🌍 Open to relocation — always up for interesting projects, collaborations, or internships
+```yaml
+name: Ronit Saha
+role: Full Stack Developer
+education: B.Tech CSE, Lovely Professional University (2024 – Present)
+focus: [React, Next.js, Node.js, Express, MongoDB, Kotlin, Jetpack Compose]
+certified: Developing Back-End Apps with Node.js and Express — IBM (Coursera)
+location: Jalandhar, India 🇮🇳
+relocation: Open to Relocation ✈️
+currently_exploring: [System Design, CI/CD, Cloud Deployment, GraphQL]
+fun_fact: "I once built an Apple-style scrollytelling landing page from scratch — no frameworks, just Canvas + JS"
+```
+
+* 🔭 Currently building full-stack platforms with secure, role-based authentication systems
+* 🛠️ Comfortable across the stack — from JWT-secured REST APIs to responsive React dashboards to native Android apps
+* 🧠 Strong fundamentals in **DSA, OOP, DBMS, OS, and Computer Networks**
+* 📜 IBM-certified in back-end development with Node.js and Express
+* 🌱 Always shipping something — check out my **Featured Projects** below
+* ⚡ Fun fact: I like turning "impossible-looking" UI (scroll-synced 3D animations) into vanilla-JS engineering problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
 
-### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,mysql" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+**Frontend**
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+**Backend**
 
-### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+**Mobile**
 
-### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=kotlin" /> &nbsp; <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**Databases & Cloud**
 
-### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🍽️ EcoShare — Smart Food Waste Management System
+<table>
+<tr>
+<td width="50%">
 
-Full-stack platform connecting donors, volunteers, and NGOs to reduce food waste, with JWT authentication, role-based access control, and responsive React dashboards.
+### 🍽️ [EcoShare](https://github.com/ronitsaha11/EcoShare_Smart_Food_Waste_Management_System)
+**Smart Food Waste Management System**
 
-🔗 [View Project](https://github.com/ronitsaha11/EcoShare_Smart_Food_Waste_Management_System)
+Full-stack platform connecting donors, volunteers, and NGOs, with JWT auth, RBAC, and responsive React dashboards.
 
-**Focus:** React 19 • TypeScript • Express.js • MongoDB • JWT
+`React 19` `TypeScript` `Express.js` `MongoDB` `JWT`
 
----
+<img src="https://img.shields.io/github/stars/ronitsaha11/EcoShare_Smart_Food_Waste_Management_System?style=flat-square&color=yellow" /> <img src="https://img.shields.io/github/last-commit/ronitsaha11/EcoShare_Smart_Food_Waste_Management_System?style=flat-square" />
 
-### 🎧 Sony WH-1000XM6 — Interactive Product Landing Page
+</td>
+<td width="50%">
 
-An Apple-style "scrollytelling" landing page rendering 480 frames across two synchronized image sequences on HTML5 Canvas, built entirely in vanilla JavaScript.
+### 🎧 Sony WH-1000XM6
+**Interactive Scrollytelling Landing Page**
 
-**Focus:** HTML5 • CSS3 • Vanilla JavaScript • Canvas API
+Apple-style scroll-driven experience rendering 480 frames across two synced sequences — pure vanilla JS, no frameworks.
 
----
+`HTML5` `CSS3` `Vanilla JS` `Canvas API`
 
-### 🩺 HealthTrack (Nexa) — Android Health Tracking App
+*Not yet public — coming soon to GitHub*
 
-Android health-tracking app built on the Health Connect SDK, structured with Clean Architecture and MVVM across data, domain, and UI layers.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-🔗 [View Project](https://github.com/ronitsaha11/HealthTrack)
+### 🩺 [HealthTrack (Nexa)](https://github.com/ronitsaha11/HealthTrack)
+**Android Health Tracking App**
 
-**Focus:** Kotlin • Jetpack Compose • Clean Architecture • MVVM • Firebase
+Built on the Health Connect SDK with Clean Architecture and MVVM across data, domain, and UI layers.
+
+`Kotlin` `Jetpack Compose` `MVVM` `Firebase`
+
+<img src="https://img.shields.io/github/stars/ronitsaha11/HealthTrack?style=flat-square&color=yellow" /> <img src="https://img.shields.io/github/last-commit/ronitsaha11/HealthTrack?style=flat-square" />
+
+</td>
+<td width="50%">
+
+### ➕ More on the way
+**2–3 new full-stack builds planned for 2026**
+
+Always shipping — check back or ⭐ [follow my GitHub](https://github.com/ronitsaha11) to see what's next.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -124,18 +149,12 @@ Computer Networks
 Full-Stack Web & Mobile Development
 ```
 
----
-
 ## 📚 Currently Learning
 
 ```text
-⚛️ Advanced React & Next.js Patterns
-   ↓
-🔗 GraphQL & API Architecture
-   ↓
-☁️ Cloud Deployment & CI/CD
-   ↓
-🧪 Testing (Jest / Unit Testing)
+⚛️ Advanced React & Next.js Patterns  →  🔗 GraphQL & API Architecture
+   ↓                                                    ↓
+☁️ Cloud Deployment & CI/CD           ←  🧪 Testing (Jest / Unit Testing)
    ↓
 🚀 System Design Fundamentals
 ```
@@ -146,13 +165,20 @@ Full-Stack Web & Mobile Development
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronitsaha11&show_icons=true&theme=radical" alt="Ronit's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ronitsaha11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitsaha11&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitsaha11&theme=radical" alt="Ronit's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitsaha11&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ronitsaha11&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
 
 ## 🐍 Contribution Activity
 
@@ -162,34 +188,39 @@ Full-Stack Web & Mobile Development
 
 </div>
 
-> Note: the contribution snake requires the `Platane/snk` GitHub Action set up on your own profile repo to render your real activity.
+> Note: the GitHub stats, trophies, and streak cards above pull live data once your repos/activity are public. The contribution snake needs the `Platane/snk` GitHub Action set up on your own profile repo to render.
 
 ---
 
 ## 🎯 2026 Goals
 
-* [ ] Deepen React/Next.js and system design skills
-* [ ] Ship 2–3 more full-stack projects end-to-end
-* [ ] Learn CI/CD pipelines and cloud deployment (AWS/GCP)
-* [ ] Contribute to open-source full-stack or dev-tools repos
-* [ ] Land a full-stack developer internship or new-grad role
-* [ ] Publish the Sony WH-1000XM6 landing page as a public repo
-* [ ] Sharpen DSA for technical interviews
+- [ ] Deepen React/Next.js and system design skills
+- [ ] Ship 2–3 more full-stack projects end-to-end
+- [ ] Learn CI/CD pipelines and cloud deployment (AWS/GCP)
+- [ ] Contribute to open-source full-stack or dev-tools repos
+- [ ] Land a full-stack developer internship or new-grad role
+- [ ] Publish the Sony WH-1000XM6 landing page as a public repo
+- [ ] Sharpen DSA for technical interviews
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to:
-
-**💡 Interesting Projects • 🤝 Collaboration • 💼 Internships • 🚀 Open Source**
-
-If you're building something in **full-stack web development, backend systems, or Android**, feel free to reach out!
-
 <div align="center">
+
+I'm always open to **💡 Interesting Projects · 🤝 Collaboration · 💼 Internships · 🚀 Open Source**
+
+If you're building something in **full-stack web development, backend systems, or Android**, let's talk!
+
+<a href="https://linkedin.com/in/saha-ronit"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ronitsaha.edu@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
 
 ### ⭐ Thanks for visiting my profile!
 
 **Keep Building. Keep Shipping. Keep Growing. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:1F3864&height=100&section=footer" width="100%"/>
 
 </div>
