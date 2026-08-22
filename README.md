@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:06B6D4&height=220&section=header&text=Ronit%20Saha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20Android&descAlignY=52&descSize=20" width="100%"/>
 
 <a href="https://github.com/ronitsaha11">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+end-to-end+web+%26+mobile+apps;React+%2B+Next.js+%2B+Node.js+%2B+MongoDB;Kotlin+%2B+Jetpack+Compose+for+Android;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+end-to-end+web+%26+mobile+apps;React+%2B+Next.js+%2B+Node.js+%2B+MongoDB;Kotlin+%2B+Jetpack+Compose+for+Android;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,6 +45,15 @@ fun_fact: "I once built an Apple-style scrollytelling landing page from scratch 
 * 📜 IBM-certified in back-end development with Node.js and Express
 * 🌱 Always shipping something — check out my **Featured Projects** below
 * ⚡ Fun fact: I like turning "impossible-looking" UI (scroll-synced 3D animations) into vanilla-JS engineering problems
+
+---
+
+## 🎯 Current Focus
+
+| | | |
+|---|---|---|
+| Frontend Engineering | Backend & REST APIs | Android Development |
+| System Design | Database Architecture | Authentication & Security |
 
 ---
 
@@ -161,34 +170,23 @@ Full-Stack Web & Mobile Development
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronitsaha11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitsaha11&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitsaha11&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ronitsaha11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
 </div>
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ronitsaha11&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitsaha11&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-> Note: the GitHub stats, trophies, and streak cards above pull live data once your repos/activity are public. The contribution snake needs the `Platane/snk` GitHub Action set up on your own profile repo to render.
+> Note: these cards pull live data from your GitHub account once your repos and activity are public.
 
 ---
 
