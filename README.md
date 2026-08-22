@@ -174,11 +174,36 @@ Full-Stack Web & Mobile Development
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronitsaha11&show_icons=true&theme=tokyonight&hide_border=true" width="500"/>
+<a href="https://github.com/ronitsaha11?tab=repositories">
+<img src="https://img.shields.io/badge/View-My%20Repositories-1F3864?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/ronitsaha11?tab=activity">
+<img src="https://img.shields.io/badge/View-My%20Activity-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-> Note: this card pulls live data from your GitHub account once your repos and activity are public.
+<details>
+<summary><b>Want a live stats card instead?</b></summary>
+<br/>
+
+The usual `github-readme-stats.vercel.app` card is a free, shared public deployment that frequently hits its GitHub API rate limit and breaks for everyone using it — that's why it keeps showing as a broken image, not because of anything wrong on your end.
+
+The reliable fix is to deploy your **own private copy** (takes ~5 minutes, uses your own GitHub token so it never gets rate-limited by other users):
+
+1. Go to the [github-readme-stats repo](https://github.com/anuraghazra/github-readme-stats) and click **"Deploy to Vercel"** in the README
+2. Follow the prompts to fork it and deploy to your own free Vercel account
+3. Grab your new deployment's URL (e.g. `your-project.vercel.app`)
+4. Replace `github-readme-stats.vercel.app` in the image link above with your own URL
+
+Once that's done, swap the two badges above for:
+```html
+<img src="https://YOUR-OWN-DEPLOYMENT.vercel.app/api?username=ronitsaha11&show_icons=true&theme=tokyonight&hide_border=true" width="500"/>
+```
+
+</details>
+
+> Note: the buttons above always work since they're static badges — no live data to break.
 
 ---
 
