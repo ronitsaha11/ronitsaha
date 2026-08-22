@@ -35,7 +35,7 @@ focus: [React, Next.js, Node.js, Express, MongoDB, Kotlin, Jetpack Compose]
 certified: Developing Back-End Apps with Node.js and Express — IBM (Coursera)
 location: Jalandhar, India 🇮🇳
 relocation: Open to Relocation ✈️
-currently_exploring: [System Design, CI/CD, Cloud Deployment, GraphQL]
+currently_exploring: [Machine Learning, LLM Applications, System Design, CI/CD, Cloud Deployment, GraphQL]
 fun_fact: "I once built an Apple-style scrollytelling landing page from scratch — no frameworks, just Canvas + JS"
 ```
 
@@ -50,10 +50,10 @@ fun_fact: "I once built an Apple-style scrollytelling landing page from scratch 
 
 ## 🎯 Current Focus
 
-| | | |
-|---|---|---|
-| Frontend Engineering | Backend & REST APIs | Android Development |
-| System Design | Database Architecture | Authentication & Security |
+| | | | |
+|---|---|---|---|
+| Frontend Engineering | Backend & REST APIs | Android Development | Machine Learning |
+| System Design | Database Architecture | Authentication & Security | LLM Applications |
 
 ---
 
@@ -174,7 +174,12 @@ Full-Stack Web & Mobile Development
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronitsaha11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ronitsaha11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitsaha11&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ronitsaha11&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
