@@ -174,24 +174,11 @@ Full-Stack Web & Mobile Development
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronitsaha11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitsaha11&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ronitsaha11&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ronitsaha11&show_icons=true&theme=tokyonight&hide_border=true" width="500"/>
 
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitsaha11&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-> Note: these cards pull live data from your GitHub account once your repos and activity are public.
+> Note: this card pulls live data from your GitHub account once your repos and activity are public.
 
 ---
 
