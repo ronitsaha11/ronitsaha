@@ -31,7 +31,7 @@
 name: Ronit Saha
 role: Full Stack Developer
 education: B.Tech CSE, Lovely Professional University (2024 – Present)
-focus: [React, Next.js, Node.js, Express, MongoDB, Kotlin, Jetpack Compose]
+focus: [React, Next.js, Node.js, Express, FastAPI, MongoDB, Kotlin, Jetpack Compose]
 certified: Developing Back-End Apps with Node.js and Express — IBM (Coursera)
 location: Jalandhar, India 🇮🇳
 relocation: Open to Relocation ✈️
@@ -71,7 +71,7 @@ fun_fact: "I once built an Apple-style scrollytelling landing page from scratch 
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs" />
 
 **Mobile**
 
